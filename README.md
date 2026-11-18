@@ -1,0 +1,1 @@
+# VizX-platform-validation
